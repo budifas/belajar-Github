@@ -3,3 +3,4 @@ Resolusi tahun 2021
 -Belajar Lanjutan Web Programing
 -Belajar konsep Github
 -Belajat perbedaan Git & GitHUb
+-Belajar membuat Front End TBS
