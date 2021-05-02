@@ -1,10 +1,10 @@
 Rencana konten WPU
 -Javascript
 -FrameWork JavaScript
+  -Angular
   -Vue
   -Reac
 -Farme HTML
--Struktur Data Dasar
 -PHP FrameWork
   -Laravel
 -Interview
